@@ -25,7 +25,7 @@ public class User {
     private String yufuxin;
 
     public void run(){
-        System.out.println("iuhoijk");
+        System.out.println("7777777");
     }
     public void run1(){}
     public void run2(){}

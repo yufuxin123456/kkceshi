@@ -20,5 +20,13 @@ public class User {
     public void run(){
         System.out.println("999999999");
     }
+    public void run1(){}
+    public void run2(){}
+    public void run3(){}
+    public void run4(){}
+    public void run5(){}
+    public void run6(){
+        System.out.println("999999999");
+    }
 
 }

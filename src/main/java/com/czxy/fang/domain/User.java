@@ -20,7 +20,7 @@ public class User {
     private String yufuxin;
 
     public void run(){
-        System.out.println("123321");
+        System.out.println("iuhoijk");
     }
     public void run1(){}
     public void run2(){}

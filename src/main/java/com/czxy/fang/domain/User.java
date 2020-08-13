@@ -27,6 +27,7 @@ public class User {
     public void run5(){}
     public void run6(){
         System.out.println("werefvasd");
+        System.out.println("werefvasd");
     }{
         System.out.println("Hello  Word");
     }

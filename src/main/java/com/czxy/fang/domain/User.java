@@ -18,7 +18,7 @@ public class User {
     private String yufuxin;
 
     public void run(){
-        System.out.println("1235468762198451");
+        System.out.println("123");
     }
     public void run1(){}
     public void run2(){}

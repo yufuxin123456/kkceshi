@@ -12,6 +12,8 @@ import lombok.Data;
 public class User {
     {
         System.out.println(1111);
+        System.out.println(1111);
+        System.out.println(1111);
     }
     private String username;
     private String password;

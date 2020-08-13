@@ -18,7 +18,7 @@ public class User {
     private String yufuxin;
 
     public void run(){
-        System.out.println("999999999");
+        System.out.println("武忠康");
     }
     public void run1(){}
     public void run2(){}
